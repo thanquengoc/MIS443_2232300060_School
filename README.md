@@ -15,10 +15,8 @@ This repository contains the complete implementation of the **School Database Sc
 ```text
 MIS443_StudentID_School/
 ├── codes/
-│   ├── 01_create_database.sql
-│   ├── 02_create_tables_relationships.sql
-│   ├── 03_insert_data.sql
-│   └── 04_questions_01_30.sql
+│   ├── 01_create_tables_relationships.sql
+│   └── 02_questions_01_30.sql
 ├── data/
 │   ├── students.csv
 │   ├── professors.csv
